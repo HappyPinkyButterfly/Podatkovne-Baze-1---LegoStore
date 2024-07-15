@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Glavna Stran</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            width: 100%;
+            padding: 1rem;
+            background-color: #f8f8f8;
+            border-bottom: 1px solid #ddd;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        header img {
+            height: 50px;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 1.5rem;
+        }
+        .user-info {
+            font-size: 1rem;
+        }
+        .user-info span {
+            font-weight: bold;
+        }
+        .logout-btn {
+            background-color: #007BFF;
+            color: white;
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .logout-btn:hover {
+            background-color: #0056b3;
+        }
+        .filters-container {
+            width: 100%;
+            max-width: 600px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 2rem;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #fff;
+            margin-top: 2rem;
+        }
+        .filters-container label {
+            margin-top: 1rem;
+            align-self: flex-start;
+        }
+        .filters-container button {
+            margin-top: 2rem;
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 4px;
+            background-color: #007BFF;
+            color: white;
+            cursor: pointer;
+            align-self: center;
+        }
+        .filters-container button:hover {
+            background-color: #0056b3;
+        }
+        .filters-container select,
+        .filters-container input {
+            width: 100%;
+            padding: 0.5rem;
+            margin-bottom: 1rem;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+        }
+        .filters-container h2 {
+            align-self: flex-start;
+        }
+        .orders-button-container {
+            margin-top: 2rem;
+        }
+        .orders-button-container button {
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 4px;
+            background-color: #28a745;
+            color: white;
+            cursor: pointer;
+        }
+        .orders-button-container button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="/static/images/glavna.jpg" alt="Logo">
+        <h1>Dobrodošli v LEGO Store</h1>
+        <div class="user-info">
+            Prijavljeni ste kot: <span>{{ trenutni_uporabnik }}</span>
+            <form action="/odjava" method="post" style="display:inline;">
+                <button type="submit" class="logout-btn">Odjava</button>
+            </form>
+        </div>
+    </header>
+    <div class="filters-container">
+        <h2>Filtriraj</h2>
+        <form action="/" method="post">
+            <label for="tema">Tema:</label>
+            <select id="tema" name="tema">
+                % for tema in teme:
+                <option value="{{ tema.id }}">{{ tema.tema }}</option>
+                % end
+            </select>
+
+            <label for="starost">Starost:</label>
+            <select id="starost" name="starost">
+                % for starost in starosti:
+                <option value="{{ starost }}">{{ starost }}</option>
+                % end
+            </select>
+
+            <label for="max_cena">Maksimalna cena:</label>
+            <input type="text" id="max_cena" name="max_cena" required>
+
+            <button type="submit">Išči</button>
+        </form>
+
+        % if napaka:
+        <p style="color: red;">{{ napaka }}</p>
+        % end
+    </div>
+
+    <div class="orders-button-container">
+        <form action="/narocila" method="get">
+            <button type="submit">Vaša naročila</button>
+        </form>
+    </div>
+</body>
+</html>

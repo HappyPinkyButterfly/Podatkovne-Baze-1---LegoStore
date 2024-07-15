@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+    <meta charset="UTF-8">
+    <title>Rezultati</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            width: 100%;
+            padding: 1rem;
+            background-color: #f8f8f8;
+            border-bottom: 1px solid #ddd;
+        }
+        header h1 {
+            margin: 0;
+            text-align: center;
+        }
+        .results-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-top: 2rem;
+            width: 100%;
+            max-width: 1200px;
+        }
+        .result-item {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 1rem;
+            margin: 1rem;
+            width: calc(33.333% - 2rem);
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        .result-item h2 {
+            margin: 0 0 1rem 0;
+            font-size: 1.2rem;
+        }
+        .result-item p {
+            margin: 0.5rem 0;
+        }
+        .result-item form {
+            margin-top: 1rem;
+        }
+        .result-item button {
+            padding: 0.5rem;
+            border: none;
+            border-radius: 4px;
+            background-color: #007BFF;
+            color: white;
+            cursor: pointer;
+        }
+        .result-item button:hover {
+            background-color: #0056b3;
+        }
+        .back-link {
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Rezultati</h1>
+    </header>
+    <div class="results-container">
+        % if rezultati:
+            % for set in rezultati:
+                <div class="result-item">
+                    <h2>{{ set.ime }}</h2>
+                    <p><strong>Tema:</strong> {{ set.tema }}</p>
+                    <p><strong>Starost:</strong> {{ set.starost }}</p>
+                    <p><strong>Koščki:</strong> {{ set.koscki }}</p>
+                    <p><strong>Cena:</strong> {{ set.cena }} €</p>
+                    <p><strong>Zaloga:</strong> {{ set.zaloga }}</p>
+                    % if set.zaloga != "Out of stock":
+                    <form action="/naroci" method="post">
+                        <input type="hidden" name="id_seta" value="{{ set.id }}">
+                        <button type="submit">Naroči</button>
+                    </form>
+                    % end
+                </div>
+            % end
+        % else:
+            <p>Ni rezultatov za prikaz.</p>
+        % end
+    </div>
+    <a class="back-link" href="/">Nazaj na glavno stran</a>
+</body>
+</html>
+

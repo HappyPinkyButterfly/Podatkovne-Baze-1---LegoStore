@@ -1,0 +1,1001 @@
+id,starost,id_teme,koscki,ime
+1,8+,1,515,West Jungle Explorer
+2,9+,7,711,Police Hideout Arena
+3,18+,6,415,West Ancient Explorer
+4,9+,5,445,Haunted Adventure Invasion
+5,8+,6,359,Race Siege Den
+6,9+,7,157,Fantasy Car Headquarters
+7,8+,7,314,Arctic Training Ninja
+8,3+,4,350,Pirate Space Den
+9,3+,1,553,City HighSpeed Defense
+10,12+,3,711,Mountain Sanctuary Police
+11,18+,4,832,Treasure Robot Research
+12,6+,4,354,Space Defense Hunt
+13,9+,5,1121,Invasion Expedition Castle
+14,8+,7,1171,Car House Outpost
+15,6+,6,209,Sanctuary Battle Dojo
+16,12+,3,285,Research Alien Cruiser
+17,6+,4,262,Basecamp Station Adventure
+18,18+,3,1055,Superhero Wild Station
+19,9+,7,1186,Dino Cove Expedition
+20,18+,4,999,Mission Gold Mystery
+21,6+,4,21,Mountain Headquarters Ancient
+22,18+,2,401,Basecamp Ancient Arena
+23,6+,4,786,Training Wild Research
+24,9+,1,340,Pirate Sanctuary Chase
+25,6+,3,525,Basecamp House Research
+26,18+,4,647,Treasure Car Adventure
+27,18+,2,155,HighSpeed Expedition Den
+28,6+,4,575,Robot Training Sanctuary
+29,6+,6,1138,West Ninja Ancient
+30,6+,5,873,Castle HighSpeed Expedition
+31,6+,3,426,Invasion House Explorer
+32,18+,2,923,Station Police Tower
+33,3+,3,487,Outpost Underwater Headquarters
+34,6+,6,413,Mission Alien Treasure
+35,18+,2,197,Mystery Climber Den
+36,12+,2,82,City Gold Defense
+37,18+,3,209,Research Fantasy Outpost
+38,8+,3,442,Robot Police Castle
+39,9+,2,999,Superhero Haunted Ancient
+40,6+,3,83,Mountain Sanctuary Headquarters
+41,9+,7,690,Ninja Alien Sanctuary
+42,6+,4,847,Invasion Station Space
+43,3+,5,781,Car Castle Defense
+44,12+,4,338,Expedition Basecamp Cruiser
+45,8+,2,579,Police Galactic Training
+46,6+,1,284,Underwater Tower Pirate
+47,6+,1,682,Adventure Outpost Wild
+48,18+,1,233,Cove Robot Alien
+49,18+,1,430,Chase Mountain Expedition
+50,18+,3,858,Climber City Treasure
+51,6+,2,738,HighSpeed Dojo Research
+52,3+,6,37,Treasure Station Adventure
+53,6+,5,923,Ninja Ancient Fantasy
+54,18+,4,158,Space Superhero Castle
+55,3+,5,974,Headquarters Outpost Basecamp
+56,3+,2,948,Alien Mountain Den
+57,8+,4,1015,Training Research Sanctuary
+58,18+,7,552,Invasion House Adventure
+59,18+,2,922,Research Chase Cove
+60,8+,2,515,Wild Pirate Training
+61,12+,3,58,Cruiser Treasure Underwater
+62,3+,1,398,Fantasy Defense Space
+63,12+,1,614,Expedition Ninja Car
+64,8+,5,744,Galactic House Ancient
+65,9+,1,102,Basecamp Police Gold
+66,18+,5,530,Defense Headquarters Station
+67,12+,7,1163,Mystery Research Alien
+68,3+,2,234,Mission Wild Chase
+69,6+,6,516,West Training Invasion
+70,8+,2,431,Outpost Ninja Fantasy
+71,3+,3,1195,Dojo HighSpeed Basecamp
+72,6+,7,1018,Police Treasure Den
+73,12+,1,117,Space Mountain Research
+74,9+,2,586,Defense Haunted Sanctuary
+75,12+,6,440,Station Gold Alien
+76,9+,4,721,Ninja City Car
+77,6+,6,420,Invasion Training Basecamp
+78,9+,3,1163,Research Fantasy Space
+79,12+,7,1042,Headquarters Alien Castle
+80,18+,6,559,Adventure Mission Treasure
+81,3+,1,1193,Galactic Outpost Dojo
+82,3+,7,585,Car Research Station
+83,9+,1,857,Defense Expedition Ninja
+84,3+,5,535,Pirate Superhero Police
+85,8+,6,978,Basecamp Sanctuary Castle
+86,6+,5,827,Ancient Mystery City
+87,3+,7,1117,Robot Gold Mountain
+88,18+,4,873,Climber Underwater Research
+89,3+,7,177,Training House Cove
+90,3+,6,1119,Alien Police Dojo
+91,3+,1,727,Mountain Wild Climber
+92,9+,7,575,Expedition Galactic Space
+93,9+,4,1055,Outpost Research HighSpeed
+94,3+,7,442,Station Defense Car
+95,9+,3,284,HighSpeed Training Alien
+96,8+,6,170,Ancient Robot Space
+97,3+,2,258,Invasion City Pirate
+98,6+,5,854,Adventure Ninja Headquarters
+99,18+,7,778,Defense Mission Climber
+100,12+,7,696,Haunted Gold Cove
+101,6+,3,586,Underwater Fantasy Sanctuary
+102,8+,6,759,Dojo Training Chase
+103,18+,1,989,Space Basecamp Research
+104,18+,3,991,Police Expedition Ancient
+105,12+,6,33,Station Superhero Castle
+106,12+,4,99,Robot Defense Adventure
+107,8+,4,1094,Treasure Mission Alien
+108,12+,2,1005,Galactic Mountain Outpost
+109,9+,3,660,Research Basecamp Police
+110,9+,4,1194,Car Headquarters Invasion
+111,12+,7,942,Fantasy Underwater Training
+112,9+,2,1103,Alien House Pirate
+113,6+,4,485,Ninja Outpost Chase
+114,12+,3,285,Space Gold Basecamp
+115,3+,4,974,Mountain HighSpeed Adventure
+116,18+,2,590,Ancient Research Station
+117,18+,4,948,Police Treasure Mission
+118,6+,5,77,Expedition Cove Alien
+119,12+,4,366,Robot Sanctuary Defense
+120,6+,5,1188,Training Fantasy Mountain
+121,12+,3,901,Basecamp Police Treasure
+122,9+,5,1127,Mission Station Outpost
+123,3+,1,82,Ancient HighSpeed Climber
+124,3+,1,510,Underwater Training Alien
+125,9+,2,1094,Car Research House
+126,18+,1,799,Defense Adventure City
+127,18+,7,573,Space Ninja Gold
+128,3+,6,1148,Headquarters Haunted Den
+129,8+,1,512,Treasure Alien Castle
+130,8+,5,207,Galactic Mountain Sanctuary
+131,18+,7,1039,Station Cove Expedition
+132,3+,2,983,Pirate Car Research
+133,12+,3,739,Robot Superhero Dojo
+134,6+,6,1004,Training Chase Basecamp
+135,18+,4,1098,Mission Defense Alien
+136,6+,7,38,Ancient Ninja Fantasy
+137,12+,7,721,Police Outpost Adventure
+138,18+,4,1191,Mountain Basecamp Headquarters
+139,18+,6,781,Research Space Defense
+140,9+,4,635,Underwater Castle Training
+141,3+,2,525,Treasure Robot Chase
+142,6+,3,613,City Station Fantasy
+143,12+,5,623,Invasion Dojo Adventure
+144,3+,7,258,Expedition Gold Alien
+145,8+,6,180,Outpost Superhero Research
+146,12+,7,613,Climber Underwater Mountain
+147,18+,2,634,Sanctuary Galactic Police
+148,3+,3,579,Defense House Training
+149,3+,5,230,HighSpeed Ninja Adventure
+150,9+,4,187,Space Station Invasion
+151,9+,2,905,Research Pirate Alien
+152,3+,3,1025,Ancient Basecamp Fantasy
+153,6+,1,1058,Robot Mission Headquarters
+154,12+,5,1048,Expedition Climber Space
+155,18+,1,117,Underwater Research Police
+156,3+,1,810,Treasure Ninja Outpost
+157,6+,4,308,Sanctuary Alien Castle
+158,3+,0,767,Mountain Cabin
+159,18+,7,914,Dinosaur Fossils
+160,18+,3,311,Castle Adventure
+161,6+,6,235,City Police Station
+162,12+,7,290,Bonsai Tree
+163,9+,2,499,Castle Adventure
+164,3+,2,952,Farm Tractor
+165,12+,7,617,Safari Truck
+166,9+,4,115,Dinosaur Fossils
+167,12+,2,308,Safari Truck
+168,9+,3,143,Bird of Paradise
+169,9+,1,279,Flower Bouquet
+170,3+,7,262,Super Car
+171,9+,7,695,Sports Car
+172,3+,3,140,Bird of Paradise
+173,18+,7,512,Bonsai Tree
+174,9+,4,638,Fire Rescue
+175,3+,7,256,Robot Inventor
+176,12+,6,574,Fire Rescue
+177,3+,7,907,Pirate Ship
+178,9+,5,196,Fire Rescue
+179,18+,4,555,Jungle Explorer
+180,3+,1,505,Flower Bouquet
+181,3+,4,165,Pirate Ship
+182,9+,5,992,Robot Inventor
+183,3+,7,271,Medieval Market
+184,12+,5,316,Aquarium
+185,3+,4,517,Fire Rescue
+186,18+,3,649,Space Shuttle
+187,18+,1,945,Safari Truck
+188,3+,1,634,Safari Truck
+189,9+,6,210,Safari Truck
+190,3+,5,711,Medieval Market
+191,9+,5,379,Mountain Cabin
+192,18+,3,405,Fire Rescue
+193,3+,5,268,Robot Inventor
+194,6+,4,690,Space Shuttle
+195,9+,7,952,Sports Car
+196,12+,4,545,City Police Station
+197,6+,2,642,Fire Rescue
+198,18+,3,338,Mountain Cabin
+199,9+,6,774,Robot Inventor
+200,3+,5,787,Pirate Ship
+201,12+,3,171,Bonsai Tree
+202,12+,6,301,Bonsai Tree
+203,3+,7,716,Jungle Explorer
+204,9+,5,203,Jungle Explorer
+205,6+,2,165,Robot Inventor
+206,6+,6,173,Bird of Paradise
+207,18+,6,911,Pirate Ship
+208,18+,5,616,Safari Truck
+209,3+,5,587,Winter Village
+210,12+,1,338,Space Shuttle
+211,9+,7,887,Safari Truck
+212,3+,7,677,Flower Bouquet
+213,6+,1,516,Medieval Market
+214,18+,4,354,Robot Inventor
+215,18+,7,119,Pirate Ship
+216,6+,2,252,Aquarium
+217,18+,5,386,Pirate Ship
+218,12+,4,767,Bird of Paradise
+219,3+,2,374,Aquarium
+220,12+,5,700,Super Car
+221,18+,1,482,Safari Truck
+222,12+,2,755,Bonsai Tree
+223,18+,6,685,Jungle Explorer
+224,3+,6,550,Robot Inventor
+225,3+,5,828,Medieval Market
+226,18+,6,984,Winter Village
+227,18+,6,612,Mountain Cabin
+228,12+,1,226,Dinosaur Fossils
+229,12+,6,466,Jungle Explorer
+230,12+,7,840,Jungle Explorer
+231,9+,5,752,Pirate Ship
+232,18+,2,415,Medieval Market
+233,6+,3,967,Bonsai Tree
+234,12+,1,932,Haunted House
+235,9+,4,102,Super Car
+236,3+,3,166,Dinosaur Fossils
+237,6+,2,320,Winter Village
+238,3+,6,311,Aquarium
+239,3+,7,608,Bird of Paradise
+240,18+,4,416,City Police Station
+241,18+,5,116,Fire Rescue
+242,18+,1,480,Sports Car
+243,9+,3,879,Farm Tractor
+244,6+,1,107,Medieval Market
+245,18+,5,161,City Police Station
+246,9+,1,806,Mountain Cabin
+247,6+,1,744,Sports Car
+248,3+,6,662,Jungle Explorer
+249,18+,7,868,Robot Inventor
+250,9+,7,120,Farm Tractor
+251,9+,6,278,Winter Village
+252,6+,1,746,Super Car
+253,18+,5,315,City Police Station
+254,18+,5,356,Bonsai Tree
+255,18+,1,373,Space Shuttle
+256,18+,6,667,Robot Inventor
+257,18+,4,661,Super Car
+258,6+,4,827,Winter Village
+259,9+,6,125,Pirate Ship
+260,12+,4,621,Fire Rescue
+261,6+,4,384,Aquarium
+262,9+,4,930,Medieval Market
+263,12+,2,769,Sports Car
+264,6+,3,841,Mountain Cabin
+265,6+,1,726,Winter Village
+266,3+,5,944,Safari Truck
+267,12+,5,363,Winter Village
+268,12+,7,706,Jungle Explorer
+269,18+,2,900,Bonsai Tree
+270,12+,4,110,Bird of Paradise
+271,9+,5,735,Jungle Explorer
+272,9+,6,188,Bird of Paradise
+273,12+,4,726,City Police Station
+274,12+,2,316,Medieval Market
+275,9+,1,216,Castle Adventure
+276,6+,2,343,Jungle Explorer
+277,9+,2,539,Safari Truck
+278,12+,4,478,Flower Bouquet
+279,9+,6,201,Super Car
+280,9+,3,710,Space Shuttle
+281,6+,3,216,Sports Car
+282,3+,4,266,Super Car
+283,18+,1,545,Sports Car
+284,12+,1,870,City Police Station
+285,12+,6,289,City Police Station
+286,6+,4,519,Sports Car
+287,9+,3,112,Mountain Cabin
+288,18+,5,737,Medieval Market
+289,3+,3,849,Castle Adventure
+290,18+,4,101,Fire Rescue
+291,18+,2,776,Medieval Market
+292,3+,5,642,Castle Adventure
+293,9+,4,897,Castle Adventure
+294,6+,5,982,Space Shuttle
+295,6+,3,648,Fire Rescue
+296,3+,1,397,Sports Car
+297,3+,1,223,Bird of Paradise
+298,9+,3,106,Super Car
+299,18+,7,558,Haunted House
+300,3+,7,576,Safari Truck
+301,12+,3,522,Flower Bouquet
+302,18+,7,827,Medieval Market
+303,6+,2,133,Mountain Cabin
+304,6+,7,864,Space Shuttle
+305,3+,5,179,Safari Truck
+306,6+,1,780,Pirate Ship
+307,6+,6,860,Pirate Ship
+308,18+,5,750,Flower Bouquet
+309,6+,5,267,Farm Tractor
+310,3+,7,531,Aquarium
+311,3+,3,377,Haunted House
+312,12+,3,275,Safari Truck
+313,3+,7,794,Pirate Ship
+314,3+,5,346,Bonsai Tree
+315,12+,2,577,Robot Inventor
+316,18+,6,127,Aquarium
+317,3+,3,164,Castle Adventure
+318,18+,2,617,Dinosaur Fossils
+319,12+,4,340,Robot Inventor
+320,6+,6,140,Winter Village
+321,3+,2,970,Fire Rescue
+322,3+,2,287,Medieval Market
+323,12+,6,769,Space Shuttle
+324,6+,2,612,Robot Inventor
+325,9+,5,330,Farm Tractor
+326,12+,7,726,City Police Station
+327,9+,2,673,City Police Station
+328,9+,1,452,Winter Village
+329,3+,5,605,Dinosaur Fossils
+330,3+,7,245,Bird of Paradise
+331,9+,5,894,Fire Rescue
+332,6+,3,342,Mountain Cabin
+333,6+,4,894,Castle Adventure
+334,18+,3,245,Dinosaur Fossils
+335,18+,7,763,Robot Inventor
+336,3+,1,198,Haunted House
+337,3+,5,928,Farm Tractor
+338,3+,5,257,Safari Truck
+339,9+,6,999,Aquarium
+340,9+,2,864,Mountain Cabin
+341,9+,6,769,Safari Truck
+342,3+,6,796,Haunted House
+343,6+,5,835,Dinosaur Fossils
+344,3+,6,734,Jungle Explorer
+345,12+,6,145,Winter Village
+346,12+,4,745,Super Car
+347,12+,2,967,Dinosaur Fossils
+348,9+,6,850,Pirate Ship
+349,6+,3,407,Safari Truck
+350,6+,4,414,Fire Rescue
+351,6+,6,311,Pirate Ship
+352,6+,3,791,City Police Station
+353,9+,5,411,Farm Tractor
+354,6+,1,472,Sports Car
+355,9+,7,518,Robot Inventor
+356,3+,5,397,Sports Car
+357,3+,7,276,Jungle Explorer
+358,3+,6,671,Pirate Ship
+359,6+,5,330,Aquarium
+360,6+,7,588,Medieval Market
+361,12+,2,794,Castle Adventure
+362,3+,1,503,Flower Bouquet
+363,18+,3,618,Fire Rescue
+364,3+,2,119,Robot Inventor
+365,9+,5,488,Sports Car
+366,3+,5,955,Dinosaur Fossils
+367,9+,7,541,Jungle Explorer
+368,6+,3,499,Sports Car
+369,6+,5,738,Bird of Paradise
+370,12+,5,101,Pirate Ship
+371,6+,2,887,Safari Truck
+372,3+,6,959,Robot Inventor
+373,3+,7,721,Jungle Explorer
+374,9+,5,360,Jungle Explorer
+375,12+,6,639,Pirate Ship
+376,18+,1,538,Medieval Market
+377,9+,2,400,Super Car
+378,3+,7,264,Space Shuttle
+379,18+,5,631,Bird of Paradise
+380,12+,7,292,Castle Adventure
+381,3+,4,1000,Aquarium
+382,6+,4,566,Safari Truck
+383,12+,2,380,Fire Rescue
+384,9+,7,629,Haunted House
+385,12+,7,462,Super Car
+386,6+,5,114,Bird of Paradise
+387,3+,1,176,Pirate Ship
+388,3+,6,282,Bird of Paradise
+389,18+,2,582,Robot Inventor
+390,12+,2,524,Robot Inventor
+391,3+,2,525,Dinosaur Fossils
+392,3+,6,686,Medieval Market
+393,12+,3,528,Mountain Cabin
+394,12+,4,983,Super Car
+395,6+,4,776,Medieval Market
+396,6+,5,254,Safari Truck
+397,9+,1,875,Bird of Paradise
+398,18+,2,1000,Bonsai Tree
+399,3+,2,608,Sports Car
+400,18+,1,539,Super Car
+401,12+,1,169,Robot Inventor
+402,3+,1,544,Robot Inventor
+403,9+,2,534,Jungle Explorer
+404,18+,2,473,Flower Bouquet
+405,12+,1,854,Pirate Ship
+406,3+,6,507,Safari Truck
+407,3+,3,621,Space Shuttle
+408,18+,7,545,Bonsai Tree
+409,9+,2,957,Flower Bouquet
+410,12+,7,134,Sports Car
+411,6+,6,586,Flower Bouquet
+412,18+,6,673,Fire Rescue
+413,9+,5,231,Aquarium
+414,3+,4,863,Aquarium
+415,3+,2,410,Winter Village
+416,18+,4,743,Winter Village
+417,9+,5,829,City Police Station
+418,12+,5,399,Pirate Ship
+419,12+,4,367,Winter Village
+420,3+,3,963,Pirate Ship
+421,3+,6,516,Medieval Market
+422,3+,4,216,Space Shuttle
+423,12+,6,328,Dinosaur Fossils
+424,9+,7,220,Aquarium
+425,6+,7,205,Robot Inventor
+426,3+,1,891,Space Shuttle
+427,9+,1,755,Space Shuttle
+428,9+,3,216,Castle Adventure
+429,12+,6,509,Super Car
+430,12+,2,233,Safari Truck
+431,9+,5,622,Robot Inventor
+432,6+,7,175,Mountain Cabin
+433,3+,6,427,Haunted House
+434,9+,1,776,Medieval Market
+435,6+,6,599,Super Car
+436,6+,1,475,Castle Adventure
+437,3+,4,128,Farm Tractor
+438,3+,2,183,Super Car
+439,6+,7,320,Super Car
+440,12+,5,820,Medieval Market
+441,9+,2,819,City Police Station
+442,6+,4,548,Bird of Paradise
+443,6+,1,234,Robot Inventor
+444,9+,4,430,Winter Village
+445,12+,2,254,Castle Adventure
+446,9+,3,498,Super Car
+447,6+,6,262,Safari Truck
+448,9+,2,293,Safari Truck
+449,12+,2,611,Robot Inventor
+450,12+,1,210,Pirate Ship
+451,9+,2,214,Medieval Market
+452,6+,1,188,Aquarium
+453,12+,2,523,Pirate Ship
+454,18+,2,981,Dinosaur Fossils
+455,18+,4,208,Jungle Explorer
+456,6+,3,251,Haunted House
+457,9+,7,733,Bird of Paradise
+458,18+,4,343,Haunted House
+459,18+,1,253,Castle Adventure
+460,12+,1,164,Medieval Market
+461,9+,5,409,Bonsai Tree
+462,3+,5,999,Farm Tractor
+463,12+,4,365,Winter Village
+464,9+,1,109,Bird of Paradise
+465,12+,4,166,Bonsai Tree
+466,6+,3,782,Bird of Paradise
+467,6+,5,928,Haunted House
+468,12+,3,511,Robot Inventor
+469,6+,3,226,Sports Car
+470,18+,2,501,Fire Rescue
+471,18+,5,620,Winter Village
+472,12+,1,937,Winter Village
+473,12+,1,840,Safari Truck
+474,9+,2,466,Mountain Cabin
+475,6+,7,986,Dinosaur Fossils
+476,6+,2,401,Super Car
+477,12+,3,918,Space Shuttle
+478,12+,2,129,Super Car
+479,18+,3,110,Robot Inventor
+480,6+,4,458,Winter Village
+481,12+,4,541,Bird of Paradise
+482,3+,1,323,Castle Adventure
+483,6+,4,545,Super Car
+484,3+,4,892,Pirate Ship
+485,3+,7,698,Dinosaur Fossils
+486,12+,3,506,Bonsai Tree
+487,6+,4,670,Space Shuttle
+488,18+,4,502,Bonsai Tree
+489,9+,3,448,Castle Adventure
+490,9+,5,556,Sports Car
+491,12+,4,270,Space Shuttle
+492,9+,3,104,Farm Tractor
+493,18+,3,947,Robot Inventor
+494,3+,6,561,Jungle Explorer
+495,9+,5,220,Aquarium
+496,9+,6,552,Winter Village
+497,18+,6,317,Bonsai Tree
+498,6+,2,520,Dinosaur Fossils
+499,18+,4,120,Jungle Explorer
+500,9+,7,477,Farm Tractor
+501,9+,2,219,Pirate Ship
+502,3+,2,638,City Police Station
+503,9+,6,960,Fire Rescue
+504,18+,5,700,City Police Station
+505,18+,6,187,Castle Adventure
+506,9+,2,999,City Police Station
+507,18+,6,909,Super Car
+508,18+,4,573,Haunted House
+509,6+,4,344,Aquarium
+510,6+,4,117,Super Car
+511,3+,6,435,Pirate Ship
+512,18+,7,255,Super Car
+513,9+,4,288,Bird of Paradise
+514,6+,3,919,Mountain Cabin
+515,12+,4,140,Medieval Market
+516,3+,1,382,Bird of Paradise
+517,3+,6,279,Space Shuttle
+518,12+,6,114,Safari Truck
+519,18+,1,647,Farm Tractor
+520,3+,4,786,Haunted House
+521,3+,3,113,Sports Car
+522,12+,6,671,Aquarium
+523,9+,6,776,Space Shuttle
+524,18+,5,917,Mountain Cabin
+525,6+,7,986,Pirate Ship
+526,6+,2,417,Sports Car
+527,3+,1,918,Fire Rescue
+528,6+,7,128,Jungle Explorer
+529,6+,2,205,Castle Adventure
+530,3+,2,958,Mountain Cabin
+531,6+,6,234,Robot Inventor
+532,18+,5,812,Sports Car
+533,18+,1,252,Pirate Ship
+534,9+,3,946,Pirate Ship
+535,6+,3,860,Super Car
+536,12+,5,490,Safari Truck
+537,18+,3,133,Bonsai Tree
+538,6+,4,189,Super Car
+539,6+,6,200,Aquarium
+540,18+,3,279,Pirate Ship
+541,18+,5,330,Mountain Cabin
+542,12+,7,708,Jungle Explorer
+543,6+,4,147,Pirate Ship
+544,12+,7,752,Jungle Explorer
+545,18+,5,562,Pirate Ship
+546,9+,2,705,Fire Rescue
+547,6+,4,777,Fire Rescue
+548,18+,3,967,Bird of Paradise
+549,18+,3,196,City Police Station
+550,3+,4,100,Flower Bouquet
+551,18+,3,708,Jungle Explorer
+552,6+,7,624,Pirate Ship
+553,18+,2,340,Flower Bouquet
+554,12+,2,304,Farm Tractor
+555,6+,2,114,Jungle Explorer
+556,12+,5,785,Safari Truck
+557,9+,5,795,Haunted House
+558,3+,5,741,Space Shuttle
+559,6+,7,555,Fire Rescue
+560,6+,5,192,Safari Truck
+561,3+,2,846,City Police Station
+562,12+,4,475,Robot Inventor
+563,9+,6,233,Super Car
+564,6+,1,596,Dinosaur Fossils
+565,12+,5,858,Pirate Ship
+566,9+,6,122,Winter Village
+567,6+,2,610,City Police Station
+568,3+,1,854,Mountain Cabin
+569,9+,7,795,Farm Tractor
+570,12+,2,700,Aquarium
+571,18+,2,920,Winter Village
+572,9+,3,345,Fire Rescue
+573,3+,4,926,Bonsai Tree
+574,9+,2,522,Bird of Paradise
+575,9+,6,793,Sports Car
+576,12+,5,389,Mountain Cabin
+577,9+,2,265,Farm Tractor
+578,9+,3,813,Bird of Paradise
+579,3+,6,291,Sports Car
+580,18+,4,121,City Police Station
+581,9+,4,692,Medieval Market
+582,6+,3,781,Dinosaur Fossils
+583,12+,5,664,Bird of Paradise
+584,3+,6,353,Flower Bouquet
+585,18+,2,463,Sports Car
+586,12+,5,135,Haunted House
+587,6+,4,772,Winter Village
+588,9+,7,390,Farm Tractor
+589,9+,5,843,Jungle Explorer
+590,6+,3,652,Robot Inventor
+591,12+,7,417,Safari Truck
+592,9+,2,786,Winter Village
+593,9+,2,505,Safari Truck
+594,18+,4,376,Robot Inventor
+595,6+,1,869,Winter Village
+596,3+,4,601,Mountain Cabin
+597,3+,7,560,Dinosaur Fossils
+598,18+,2,193,Farm Tractor
+599,18+,2,731,Medieval Market
+600,6+,2,708,Winter Village
+601,18+,2,561,Sports Car
+602,9+,7,612,Space Shuttle
+603,18+,4,935,Dinosaur Fossils
+604,6+,7,566,City Police Station
+605,6+,1,626,Bird of Paradise
+606,3+,5,634,Bonsai Tree
+607,6+,2,796,Fire Rescue
+608,9+,2,467,Dinosaur Fossils
+609,18+,5,382,Winter Village
+610,18+,2,302,Mountain Cabin
+611,18+,5,674,Jungle Explorer
+612,9+,5,143,City Police Station
+613,9+,6,923,Medieval Market
+614,12+,7,845,Fire Rescue
+615,18+,5,355,Space Shuttle
+616,12+,6,386,Safari Truck
+617,9+,4,887,Pirate Ship
+618,3+,1,519,Mountain Cabin
+619,9+,1,358,Robot Inventor
+620,18+,4,611,Safari Truck
+621,3+,5,546,Castle Adventure
+622,3+,1,508,Aquarium
+623,9+,2,308,Robot Inventor
+624,18+,2,531,Robot Inventor
+625,12+,5,234,Bonsai Tree
+626,18+,3,795,City Police Station
+627,6+,3,812,Aquarium
+628,6+,3,506,Castle Adventure
+629,9+,1,757,Winter Village
+630,3+,5,760,Dinosaur Fossils
+631,6+,3,735,Bonsai Tree
+632,9+,7,749,Bird of Paradise
+633,3+,1,146,Sports Car
+634,3+,7,556,Pirate Ship
+635,9+,6,743,Farm Tractor
+636,9+,5,600,Flower Bouquet
+637,18+,4,435,Medieval Market
+638,12+,2,805,Bonsai Tree
+639,18+,4,391,Sports Car
+640,3+,4,687,Farm Tractor
+641,3+,7,795,Castle Adventure
+642,9+,5,855,Aquarium
+643,12+,5,845,Robot Inventor
+644,3+,1,640,Winter Village
+645,3+,3,759,Aquarium
+646,12+,6,122,Pirate Ship
+647,9+,4,847,Jungle Explorer
+648,3+,1,656,Medieval Market
+649,18+,6,668,Jungle Explorer
+650,3+,6,864,Sports Car
+651,3+,2,224,Jungle Explorer
+652,12+,3,536,Aquarium
+653,18+,2,735,Bird of Paradise
+654,3+,1,564,Winter Village
+655,6+,6,619,Robot Inventor
+656,12+,2,318,Bonsai Tree
+657,6+,7,233,Winter Village
+658,3+,3,395,Farm Tractor
+659,3+,7,929,Space Shuttle
+660,6+,2,804,Mountain Cabin
+661,12+,2,743,Fire Rescue
+662,18+,6,470,Jungle Explorer
+663,9+,7,252,Space Shuttle
+664,3+,7,750,Flower Bouquet
+665,6+,6,811,Pirate Ship
+666,3+,6,106,Winter Village
+667,18+,3,631,Aquarium
+668,18+,6,923,Jungle Explorer
+669,6+,7,651,Haunted House
+670,3+,1,927,Bird of Paradise
+671,3+,3,157,Mountain Cabin
+672,18+,2,988,Aquarium
+673,9+,4,507,Farm Tractor
+674,12+,5,330,Super Car
+675,3+,5,528,Medieval Market
+676,18+,4,195,Robot Inventor
+677,18+,6,180,Aquarium
+678,18+,7,921,Winter Village
+679,12+,5,626,Castle Adventure
+680,18+,5,233,Space Shuttle
+681,3+,5,540,Dinosaur Fossils
+682,3+,3,196,Flower Bouquet
+683,18+,6,210,City Police Station
+684,6+,5,918,Aquarium
+685,12+,4,903,Bird of Paradise
+686,6+,5,881,Castle Adventure
+687,3+,6,865,City Police Station
+688,9+,4,969,Safari Truck
+689,12+,1,353,Bird of Paradise
+690,9+,2,287,Bird of Paradise
+691,3+,6,637,Robot Inventor
+692,9+,1,258,Super Car
+693,12+,6,962,Fire Rescue
+694,6+,1,938,Jungle Explorer
+695,3+,2,189,Space Shuttle
+696,6+,6,850,Jungle Explorer
+697,3+,1,980,Fire Rescue
+698,9+,3,873,Castle Adventure
+699,12+,4,659,Safari Truck
+700,9+,3,135,Medieval Market
+701,12+,3,245,Space Shuttle
+702,9+,2,344,Space Shuttle
+703,3+,4,721,Farm Tractor
+704,9+,7,520,Bonsai Tree
+705,9+,1,907,Castle Adventure
+706,6+,5,324,Bird of Paradise
+707,18+,3,599,Pirate Ship
+708,18+,5,606,Space Shuttle
+709,12+,7,960,Super Car
+710,12+,2,127,Super Car
+711,6+,2,829,Mountain Cabin
+712,12+,3,555,Bird of Paradise
+713,18+,2,828,Fire Rescue
+714,18+,2,938,Space Shuttle
+715,12+,5,661,Super Car
+716,18+,7,514,Castle Adventure
+717,6+,3,956,Medieval Market
+718,18+,4,148,Farm Tractor
+719,18+,5,355,Farm Tractor
+720,9+,4,284,Safari Truck
+721,6+,5,638,Mountain Cabin
+722,6+,7,993,Medieval Market
+723,18+,6,369,Sports Car
+724,12+,6,920,Space Shuttle
+725,3+,3,618,Haunted House
+726,12+,2,640,Aquarium
+727,12+,5,169,Castle Adventure
+728,9+,5,251,Dinosaur Fossils
+729,12+,5,754,Pirate Ship
+730,18+,2,271,Super Car
+731,6+,5,836,Sports Car
+732,18+,1,528,Super Car
+733,3+,4,645,Fire Rescue
+734,3+,7,678,Robot Inventor
+735,3+,6,224,Haunted House
+736,18+,6,347,Sports Car
+737,9+,7,430,Robot Inventor
+738,18+,2,277,Mountain Cabin
+739,9+,2,813,Bonsai Tree
+740,18+,3,588,Winter Village
+741,12+,1,855,Super Car
+742,3+,1,886,Safari Truck
+743,3+,5,345,Super Car
+744,12+,1,920,Mountain Cabin
+745,18+,2,584,Dinosaur Fossils
+746,3+,5,166,Safari Truck
+747,12+,2,169,Sports Car
+748,3+,4,743,Dinosaur Fossils
+749,9+,1,401,Sports Car
+750,9+,7,217,Winter Village
+751,12+,5,971,Flower Bouquet
+752,6+,2,888,Castle Adventure
+753,18+,2,890,City Police Station
+754,9+,4,267,Robot Inventor
+755,18+,1,979,Pirate Ship
+756,9+,4,450,Flower Bouquet
+757,12+,7,959,Dinosaur Fossils
+758,9+,3,790,Bonsai Tree
+759,9+,4,456,Space Shuttle
+760,3+,2,524,Haunted House
+761,18+,2,939,Super Car
+762,3+,7,880,Dinosaur Fossils
+763,6+,7,568,Castle Adventure
+764,3+,3,800,Aquarium
+765,3+,2,703,Safari Truck
+766,12+,2,618,Fire Rescue
+767,6+,4,818,Mountain Cabin
+768,3+,4,848,Jungle Explorer
+769,6+,4,366,Fire Rescue
+770,9+,2,876,Haunted House
+771,12+,5,772,Aquarium
+772,9+,7,383,Bonsai Tree
+773,12+,2,398,Farm Tractor
+774,3+,1,449,Fire Rescue
+775,3+,7,540,City Police Station
+776,3+,2,761,Mountain Cabin
+777,9+,4,702,Pirate Ship
+778,6+,4,944,Fire Rescue
+779,12+,3,878,Winter Village
+780,9+,3,667,Sports Car
+781,6+,4,930,Winter Village
+782,3+,2,791,Medieval Market
+783,18+,7,943,Haunted House
+784,6+,3,314,Bonsai Tree
+785,12+,1,457,Aquarium
+786,3+,6,568,Robot Inventor
+787,12+,6,547,Winter Village
+788,3+,4,973,Safari Truck
+789,18+,5,315,Winter Village
+790,3+,5,825,Flower Bouquet
+791,9+,2,982,Bird of Paradise
+792,6+,1,320,Dinosaur Fossils
+793,9+,2,570,Safari Truck
+794,3+,7,343,Pirate Ship
+795,18+,2,248,Space Shuttle
+796,9+,4,152,Space Shuttle
+797,12+,2,739,Aquarium
+798,6+,4,312,City Police Station
+799,3+,4,709,Robot Inventor
+800,6+,6,593,Winter Village
+801,6+,5,290,Pirate Ship
+802,6+,4,273,Medieval Market
+803,9+,2,903,Pirate Ship
+804,6+,4,319,Castle Adventure
+805,9+,4,746,Super Car
+806,12+,1,702,Fire Rescue
+807,18+,5,559,Super Car
+808,6+,3,715,Bonsai Tree
+809,6+,7,537,Bonsai Tree
+810,18+,4,619,Aquarium
+811,3+,7,495,Pirate Ship
+812,6+,1,561,City Police Station
+813,3+,5,904,Bonsai Tree
+814,6+,4,738,Super Car
+815,12+,3,547,Bonsai Tree
+816,9+,5,267,Haunted House
+817,18+,7,286,Bird of Paradise
+818,18+,7,636,Pirate Ship
+819,12+,7,108,Medieval Market
+820,18+,3,124,Bird of Paradise
+821,3+,1,188,Space Shuttle
+822,3+,1,150,Robot Inventor
+823,9+,5,175,Safari Truck
+824,18+,1,845,Fire Rescue
+825,9+,5,492,Mountain Cabin
+826,9+,6,214,Aquarium
+827,3+,6,895,Space Shuttle
+828,6+,3,574,Safari Truck
+829,3+,3,842,Fire Rescue
+830,12+,7,813,Pirate Ship
+831,3+,4,243,Farm Tractor
+832,9+,7,804,City Police Station
+833,9+,4,648,Bonsai Tree
+834,6+,4,710,Castle Adventure
+835,6+,5,274,Castle Adventure
+836,6+,1,962,Pirate Ship
+837,3+,1,544,Super Car
+838,12+,7,844,City Police Station
+839,6+,5,371,Medieval Market
+840,9+,3,947,Aquarium
+841,18+,6,731,Jungle Explorer
+842,12+,6,505,Robot Inventor
+843,6+,3,824,Haunted House
+844,9+,7,852,Farm Tractor
+845,18+,2,986,Winter Village
+846,18+,6,438,Bird of Paradise
+847,6+,4,335,Bird of Paradise
+848,18+,3,155,Robot Inventor
+849,6+,6,543,Mountain Cabin
+850,3+,4,138,Farm Tractor
+851,6+,7,583,Bird of Paradise
+852,12+,6,589,Robot Inventor
+853,3+,3,120,Super Car
+854,6+,2,140,Castle Adventure
+855,6+,1,160,Sports Car
+856,12+,4,591,Castle Adventure
+857,3+,2,264,Aquarium
+858,6+,4,682,Jungle Explorer
+859,3+,1,764,Bonsai Tree
+860,9+,3,919,Dinosaur Fossils
+861,6+,4,605,Farm Tractor
+862,3+,7,983,Mountain Cabin
+863,3+,7,136,Farm Tractor
+864,12+,7,905,Mountain Cabin
+865,3+,6,210,Dinosaur Fossils
+866,18+,2,805,Robot Inventor
+867,12+,3,938,Bonsai Tree
+868,6+,7,837,Castle Adventure
+869,12+,2,957,Bird of Paradise
+870,9+,1,765,City Police Station
+871,3+,4,169,Aquarium
+872,12+,3,482,Bonsai Tree
+873,9+,1,422,Jungle Explorer
+874,12+,5,117,Castle Adventure
+875,3+,3,488,Mountain Cabin
+876,12+,1,516,Space Shuttle
+877,18+,3,113,Flower Bouquet
+878,6+,3,262,Mountain Cabin
+879,12+,2,463,Sports Car
+880,9+,4,428,Robot Inventor
+881,9+,2,808,City Police Station
+882,6+,4,349,Safari Truck
+883,12+,7,723,Fire Rescue
+884,3+,3,283,Bonsai Tree
+885,9+,5,998,Mountain Cabin
+886,12+,3,939,Flower Bouquet
+887,18+,3,318,Aquarium
+888,9+,4,975,Castle Adventure
+889,12+,5,351,Farm Tractor
+890,6+,2,416,Bonsai Tree
+891,6+,6,533,Castle Adventure
+892,18+,6,718,Sports Car
+893,9+,1,937,Flower Bouquet
+894,12+,2,513,Castle Adventure
+895,3+,4,542,Jungle Explorer
+896,18+,6,767,Safari Truck
+897,3+,2,262,Mountain Cabin
+898,12+,7,705,Sports Car
+899,9+,6,530,Bird of Paradise
+900,3+,7,630,Haunted House
+901,3+,4,324,Safari Truck
+902,3+,7,793,Safari Truck
+903,18+,7,379,Super Car
+904,12+,3,238,Bird of Paradise
+905,18+,5,665,Bird of Paradise
+906,18+,1,465,Super Car
+907,6+,6,910,Aquarium
+908,6+,7,930,Haunted House
+909,12+,2,112,Aquarium
+910,9+,1,164,Mountain Cabin
+911,3+,4,322,Castle Adventure
+912,3+,3,425,Aquarium
+913,18+,2,652,Super Car
+914,6+,7,743,Fire Rescue
+915,6+,7,905,Dinosaur Fossils
+916,9+,3,416,Bird of Paradise
+917,12+,3,144,Safari Truck
+918,9+,2,712,Super Car
+919,12+,2,599,Pirate Ship
+920,12+,1,487,Mountain Cabin
+921,9+,5,489,Jungle Explorer
+922,18+,5,707,Fire Rescue
+923,18+,1,211,Robot Inventor
+924,6+,3,107,Jungle Explorer
+925,6+,7,567,Safari Truck
+926,9+,2,940,Dinosaur Fossils
+927,3+,6,862,Haunted House
+928,3+,4,164,Pirate Ship
+929,9+,2,567,City Police Station
+930,3+,4,205,Aquarium
+931,18+,4,215,City Police Station
+932,3+,3,561,City Police Station
+933,3+,5,725,Robot Inventor
+934,18+,4,311,Mountain Cabin
+935,3+,1,592,Bonsai Tree
+936,6+,7,496,Flower Bouquet
+937,6+,4,243,Super Car
+938,12+,2,239,Winter Village
+939,18+,2,834,Haunted House
+940,12+,5,878,Super Car
+941,9+,7,482,Medieval Market
+942,18+,3,381,Safari Truck
+943,3+,3,619,City Police Station
+944,6+,4,604,Dinosaur Fossils
+945,12+,3,247,Bonsai Tree
+946,18+,2,729,Aquarium
+947,3+,6,151,Jungle Explorer
+948,9+,3,560,Medieval Market
+949,9+,1,939,Bird of Paradise
+950,9+,5,140,Sports Car
+951,18+,3,132,Space Shuttle
+952,18+,7,486,Winter Village
+953,6+,7,605,Bonsai Tree
+954,6+,3,986,Pirate Ship
+955,12+,3,365,Medieval Market
+956,9+,3,720,Winter Village
+957,9+,2,404,Dinosaur Fossils
+958,18+,2,774,Medieval Market
+959,12+,3,724,Bird of Paradise
+960,12+,5,735,Space Shuttle
+961,9+,1,805,Space Shuttle
+962,18+,4,356,Super Car
+963,18+,7,680,Jungle Explorer
+964,6+,1,476,Pirate Ship
+965,9+,1,807,Winter Village
+966,3+,6,694,Castle Adventure
+967,18+,5,367,Farm Tractor
+968,12+,2,467,Castle Adventure
+969,12+,6,288,Safari Truck
+970,9+,4,607,Mountain Cabin
+971,12+,7,600,Robot Inventor
+972,6+,6,453,Flower Bouquet
+973,18+,7,966,Haunted House
+974,12+,7,964,Bird of Paradise
+975,18+,1,531,Flower Bouquet
+976,6+,5,685,Safari Truck
+977,18+,4,601,Castle Adventure
+978,3+,7,725,Farm Tractor
+979,6+,2,948,Dinosaur Fossils
+980,6+,1,414,Haunted House
+981,6+,1,545,Aquarium
+982,6+,1,715,Safari Truck
+983,6+,3,204,Haunted House
+984,9+,4,558,Aquarium
+985,12+,1,815,Winter Village
+986,3+,1,943,Mountain Cabin
+987,12+,1,764,Bird of Paradise
+988,3+,6,547,Bonsai Tree
+989,18+,5,706,Haunted House
+990,9+,5,419,Bird of Paradise
+991,6+,7,508,Bonsai Tree
+992,3+,5,621,Farm Tractor
+993,18+,5,349,Haunted House
+994,9+,2,727,Fire Rescue
+995,3+,6,716,Bonsai Tree
+996,9+,4,560,Dinosaur Fossils
+997,12+,7,162,Jungle Explorer
+998,9+,6,916,Fire Rescue
+999,9+,6,185,Bird of Paradise
+1000,6+,1,276,Aquarium

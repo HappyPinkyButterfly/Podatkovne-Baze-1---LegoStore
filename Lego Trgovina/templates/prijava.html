@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LEGO Store - Prijava</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <style>
+        .login-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            text-align: center;
+        }
+        .login-box {
+            border: 1px solid #ccc;
+            padding: 2rem;
+            border-radius: 0.5rem;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            background-color: #fff;
+            width: 300px;
+        }
+        .login-logo img {
+            max-width: 100%;
+            height: auto;
+        }
+        .login-box .field {
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <section class="section">
+        <div class="container login-container">
+            <div class="login-logo">
+                <img src="/static/images/logo.jpg" alt="LEGO Store Logo">
+            </div>
+            <div class="login-box">
+                <form action="/prijava" method="POST">
+                    <div class="field">
+                        <label class="label">Uporabniško ime</label>
+                        <div class="control">
+                            <input class="input" type="text" name="uname" required>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <label class="label">Geslo</label>
+                        <div class="control">
+                            <input class="input" type="password" name="psw" required>
+                        </div>
+                    </div>
+                    % if napaka:
+                    <p style="color:red">{{ napaka }}</p>
+                    % end
+                    <div class="field">
+                        <div class="control">
+                            <button class="button is-primary" type="submit">Prijava</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

@@ -1,0 +1,98 @@
+<!-- uspesno.html -->
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+    <meta charset="UTF-8">
+    <title>Uspešno naročilo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            width: 100%;
+            padding: 1rem;
+            background-color: #f8f8f8;
+            border-bottom: 1px solid #ddd;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        header img {
+            height: 50px;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 1.5rem;
+        }
+        .user-info {
+            font-size: 1rem;
+        }
+        .user-info span {
+            font-weight: bold;
+        }
+        .logout-btn {
+            background-color: #007BFF;
+            color: white;
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .logout-btn:hover {
+            background-color: #0056b3;
+        }
+        .content {
+            text-align: center;
+            margin-top: 2rem;
+        }
+        .content h2 {
+            font-size: 1.8rem;
+            color: green;
+        }
+        .content p {
+            font-size: 1.2rem;
+        }
+        .content img {
+            margin-top: 1rem;
+            max-width: 100%;
+            height: auto;
+        }
+        .back-btn {
+            margin-top: 2rem;
+            background-color: #007BFF;
+            color: white;
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        .back-btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="/static/images/glavna.jpg" alt="Logo">
+        <h1>     LegoStore</h1>
+        <div class="user-info">
+            Prijavljeni ste kot: <span>{{ trenutni_uporabnik }}</span>
+            <form action="/odjava" method="post" style="display:inline;">
+                <button type="submit" class="logout-btn">Odjava</button>
+            </form>
+        </div>
+    </header>
+    <div class="content">
+        <h2>Uspešno ste oddali naročilo!</h2>
+        <p>{{sporocilo}}</p>
+
+        <a href="/" class="back-btn">Nazaj na glavno stran</a>
+    </div>
+</body>
+</html>
